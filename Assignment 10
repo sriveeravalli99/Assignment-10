@@ -1,0 +1,12 @@
+Package: matrixops
+Title: A package to simplify matrix operations in R
+Version: 0.0.0.9000
+Authors@R: 
+    person("Yamini", "Veeravalli", , "yaminiveeravalli@usf.edu", role = c("aut", "cre"))
+Description: This package simplifies matrix operattions in R by providing simpler and consistent function patterns to handle matrix calculations.
+Depends: R (>= 3.1.2)
+License: MIT License
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.2.3
